@@ -4,8 +4,9 @@
     {
       "conditions": [
         {
-          "type": "create_connected:feature_enabled",
-          "feature": "create_connected:freewheel_clutch"
+          "type": "copycats:feature_enabled",
+          "feature": "copycats:copycat_cogwheel",
+          "invert": false
         }
       ],
       "recipe": {
@@ -13,20 +14,24 @@
         "category": "misc",
         "ingredients": [
           {
-            "item": "create:andesite_casing"
-          },
-          {
-            "item": "create:shaft"
-          },
-          {
-            "item": "tfc:metal/sheet/wrought_iron"
+            "item": "create:cogwheel"
           },
           {
             "item": "create:cogwheel"
+          },
+          {
+            "item": "create:cogwheel"
+          },
+          {
+            "item": "create:cogwheel"
+          },
+          {
+            "item": "tfc:metal/ingot/zinc"
           }
         ],
         "result": {
-          "item": "create_connected:freewheel_clutch"
+          "count": 4,
+          "item": "copycats:copycat_cogwheel"
         }
       }
     }

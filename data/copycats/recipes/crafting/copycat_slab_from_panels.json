@@ -4,26 +4,25 @@
     {
       "conditions": [
         {
-          "type": "create_connected:feature_enabled",
-          "feature": "create_connected:item_silo"
+          "type": "copycats:feature_enabled",
+          "feature": "copycats:copycat_slab",
+          "invert": false
         }
       ],
       "recipe": {
         "type": "minecraft:crafting_shaped",
         "category": "misc",
         "key": {
-          "B": {
-            "item": "tfc:metal/sheet/wrought_iron"
-          },
-          "C": {
-            "tag": "tfc:barrels"
+          "p": {
+            "item": "create:copycat_panel"
           }
         },
         "pattern": [
-          "BCB"
+          "p",
+          "p"
         ],
         "result": {
-          "item": "create_connected:item_silo"
+          "item": "copycats:copycat_slab"
         },
         "show_notification": true
       }

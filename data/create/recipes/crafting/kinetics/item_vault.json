@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "B": {
-      "item": "tfc:metal/sheet/cast_iron"
+      "item": "tfc:metal/sheet/wrought_iron"
     },
     "C": {
       "tag": "tfc:barrels"

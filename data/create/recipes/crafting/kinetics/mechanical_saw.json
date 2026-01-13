@@ -3,7 +3,7 @@
   "category": "misc",
   "key": {
     "A": {
-      "item": "tfc:metal/sheet/cast_iron"
+      "item": "tfc:metal/sheet/wrought_iron"
     },
     "C": {
       "item": "create:andesite_casing"

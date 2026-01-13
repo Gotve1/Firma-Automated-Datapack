@@ -6,7 +6,7 @@
       "item": "create:stock_link"
     },
     "B": {
-      "item": "tfc:metal/sheet/cast_iron"
+      "item": "tfc:metal/sheet/wrought_iron"
     },
     "C": {
       "tag": "forge:dusts/redstone"
