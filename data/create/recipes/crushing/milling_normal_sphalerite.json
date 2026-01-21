@@ -1,26 +1,26 @@
 {
-    "type": "create:milling",
-    "ingredients": [
-        {
-            "item": "tfc:ore/normal_sphalerite"
-        }
-    ],
-    "results": [
-        {
-            "item": "tfc:powder/sphalerite"
-        },
-        {
-            "item": "tfc:powder/sphalerite"
-        },
-        {
-            "item": "tfc:powder/sphalerite"
-        },
-        {
-            "item": "tfc:powder/sphalerite"
-        },
-        {
-            "item": "tfc:powder/sphalerite"
-        }
-    ],
-    "processingTime": 400
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "tfc:ore/normal_sphalerite"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:powder/sphalerite"
+    },
+    {
+      "item": "tfc:powder/sphalerite"
+    },
+    {
+      "item": "tfc:powder/sphalerite"
+    },
+    {
+      "item": "tfc:powder/sphalerite"
+    },
+    {
+      "item": "tfc:powder/sphalerite"
+    }
+  ],
+  "processingTime": 400
 }

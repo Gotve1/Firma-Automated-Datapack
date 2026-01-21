@@ -3,10 +3,10 @@
   "category": "misc",
   "key": {
     "A": {
-      "item": "tfc:metal/double_ingot/red_steel"
+      "tag": "firmalife:smoking_fuel"
     },
     "I": {
-      "item": "create:andesite_bars"
+      "item": "tfc:metal/rod/cast_iron"
     }
   },
   "pattern": [

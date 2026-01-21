@@ -1,23 +1,23 @@
 {
-    "type": "create:crushing",
-    "ingredients": [
-        {
-            "item": "tfc:ore/sulfur"
-        }
-    ],
-    "results": [
-        {
-            "item": "tfc:powder/sulfur"
-        },
-        {
-            "item": "tfc:powder/sulfur"
-        },
-        {
-            "item": "tfc:powder/sulfur"
-        },
-        {
-            "item": "tfc:powder/sulfur"
-        }
-    ],
-    "processingTime": 400
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "tfc:ore/sulfur"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:powder/sulfur"
+    },
+    {
+      "item": "tfc:powder/sulfur"
+    },
+    {
+      "item": "tfc:powder/sulfur"
+    },
+    {
+      "item": "tfc:powder/sulfur"
+    }
+  ],
+  "processingTime": 400
 }

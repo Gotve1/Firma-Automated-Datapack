@@ -1,23 +1,23 @@
 {
-    "type": "create:crushing",
-    "ingredients": [
-        {
-            "item": "tfc:ore/sapphire"
-        }
-    ],
-    "results": [
-        {
-            "item": "tfc:powder/sapphire"
-        },
-        {
-            "item": "tfc:powder/sapphire"
-        },
-        {
-            "item": "tfc:powder/sapphire"
-        },
-        {
-            "item": "tfc:powder/sapphire"
-        }
-    ],
-    "processingTime": 400
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "tfc:ore/sapphire"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:powder/sapphire"
+    },
+    {
+      "item": "tfc:powder/sapphire"
+    },
+    {
+      "item": "tfc:powder/sapphire"
+    },
+    {
+      "item": "tfc:powder/sapphire"
+    }
+  ],
+  "processingTime": 400
 }
